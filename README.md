@@ -1,6 +1,6 @@
-## Hi!
-I'm Francesco Taioli, a PhD student in AI.
+## Hi 👋!
+I am a second-year PhD student in the National PhD Programme in Artificial Intelligence at the Polytechnic of Turin, in collaboration with the University of Verona.
 
-Visit my website at [https://francescotaioli.github.io/](https://francescotaioli.github.io/)
+For more information, visit my personal website at [https://francescotaioli.github.io/](https://francescotaioli.github.io/)
 
 Member of https://github.com/intelligolabs
