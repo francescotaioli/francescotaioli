@@ -1,5 +1,5 @@
 ## Hi 👋!
-I am a second-year PhD student in the National PhD Programme in Artificial Intelligence at the Polytechnic of Turin, in collaboration with the University of Verona.
+I am a third-year PhD student in the National PhD Programme in Artificial Intelligence at the Polytechnic of Turin, in collaboration with the University of Verona.
 
 For more information, visit my personal website at [https://francescotaioli.github.io/](https://francescotaioli.github.io/)
 
