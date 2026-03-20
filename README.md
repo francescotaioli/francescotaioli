@@ -1,4 +1,4 @@
 ## Hi 👋!
-I am a PhD candidate in the National PhD Programme in Artificial Intelligence at the Polytechnic of Turin, in collaboration with the University of Verona.
+I obtained my PhD in Artificial Intelligence (cum laude) from the Polytechnic of Turin, where I worked on Embodied AI 🤖.
 
-For more information, visit my personal website at [https://francescotaioli.github.io/](https://francescotaioli.github.io/)
+You can find more information on my website: [https://francescotaioli.github.io/](https://francescotaioli.github.io/)
